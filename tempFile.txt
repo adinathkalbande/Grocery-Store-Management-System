@@ -1,0 +1,11 @@
+Grocery Store Bill
+P0002, Daily Product, Shampoo, Vatika, 10, Pack, 10, 18.0, 118.0, Online
+P0003, Food Product, Chips, Balaji, 5, pack, 10, 9.0, 59.0, Online
+P0004, Daily Product, Shampoo, Clinic Plus, 20, pack, 25, 90.0, 590.0, Online
+P0004, Daily Product, Shampoo, Clinic Plus, 20, pack, 25, 90.0, 590.0, Online
+P0011, Daily Product, Soap, Moti, 10, pack, 60, 108.0, 708.0, Online
+P0001, Daily Product, Soap, Santoor, 5, pack, 50, 45.0, 295.0, Online
+P0012, Staple Product, Rice, Basmati, 10, kg, 40, 20.0, 420.0, Online
+P0003, Food Product, Chips, Balaji, 10, pack, 10, 18.0, 118.0, Online
+P0001, Daily Product, Soap, Santoor, 5, pack, 50, 45.0, 295.0, Online
+P0015, Food Product, Chips, Lays, 10, packets, 5, 6.0, 56.0, Online

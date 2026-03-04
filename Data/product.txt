@@ -1,0 +1,11 @@
+P0003, Food Product, Chips, Balaji, 275, pack, 10, 1.8
+P0004, Daily Product, Shampoo, Clinic Plus, 220, pack, 25, 4.5
+P0001, Daily Product, Soap, Santoor, 145, pack, 50, 9.0
+P0007, Food Product, Honey, HoneyBee, 145, Pack, 80, 14.3
+P0008, Staple Product, Cashew, Cashew Nut, 300, pack, 250, 12.5
+P0009, Food Product, Sonpapadi, Sanju Baba, 285, pack, 90, 10.8
+P0012, Staple Product, Rice, Basmati, 290, kg, 40, 2.0
+P0015, Food Product, Chips, Lays, 158, packets, 5, 0.6
+P0013, Daily Product, Soap, Life boy, 375, pack, 30, 5.4
+P0016, Food Product, Food Oil, Tirumala, 95, 1 lit, 120, 13.2
+P0020, Food Product, Biscuit, Parle-G, 90, pack, 10, 1.2
