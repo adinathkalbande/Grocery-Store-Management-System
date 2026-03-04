@@ -1,6 +1,6 @@
-# 🛒 Console Based Shopping System (Python)
+# 🛒 Console Based Grocery Store Management System (Python)
 
-A console-based shopping system developed using **Core Python** concepts.  
+A console-based Grocery Store Management System developed using **Core Python** concepts.  
 This project demonstrates the use of **Basic Python, Data Structures, OOP, Exception Handling, and File Handling** to simulate a simple e-commerce system with two roles: **Owner** and **Customer**.
 
 ---
