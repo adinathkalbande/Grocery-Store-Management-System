@@ -71,14 +71,14 @@ project-folder/
 
 2. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/your-repository-name.git
+```bash[
+git clone https://github.com/adinathkalbande/Grocery-Store-Management-System.git
 ```
 
 3. Go to the project directory
 
 ```bash
-cd your-repository-name
+cd https://github.com/adinathkalbande/Grocery-Store-Management-System
 ```
 
 4. Run the program
